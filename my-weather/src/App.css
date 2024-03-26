@@ -28,7 +28,7 @@ input {
   display: flex;
   justify-content: center;
 }
-.weather-card {
+.weather-cards {
   border: hsl(0, 54%, 97%);
   border-radius: 8px;
   background-color: white;
